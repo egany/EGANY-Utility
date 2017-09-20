@@ -18,12 +18,13 @@ EGANY Utility là bộ tiện ích mở rộng cho quản trị website trên c�
 
 *...và những tính năng khác đang chờ cập nhật từ phản hồi của người dùng...* 
 
-## Lưu ý:
+### Lưu ý:
 - Click vào biểu tượng của tiện ích mở rộng này để sử dụng!
 
 ### Mặc định các giao diện của EGANY đều được hỗ trợ đầy đủ tính năng
 Nếu bạn __không sử dụng giao diện của EGANY__, có thể xem hướng dẫn bên dưới để cấu hình cho giao diện của mình chạy được *chế độ chỉnh sửa nội dung trực tiếp*.
 
+________________
 ## Hướng dẫn bật chế độ chỉnh sửa nội dung Sản Phẩm và Bài Viết:
 Mở mã nguồn của giao diện từng file và điều chỉnh như bên dưới:
 
