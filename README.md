@@ -16,7 +16,7 @@ EGANY Utility là bộ tiện ích mở rộng cho quản trị website trên c�
 
 3. Thêm và xoá tag hàng loạt vào sản phẩm, khách hàng chỉ trong 1 click chuột
 
-.. và những tính năng khác đang chờ cập nhật từ phản hồi của người dùng... 
+*...và những tính năng khác đang chờ cập nhật từ phản hồi của người dùng...* 
 
 ## Lưu ý:
 - Click vào biểu tượng của tiện ích mở rộng này để sử dụng!
