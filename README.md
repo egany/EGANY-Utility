@@ -28,12 +28,22 @@ Nếu bạn __không sử dụng giao diện của EGANY__, có thể xem hướ
 Mở mã nguồn của giao diện từng file và điều chỉnh như bên dưới:
 
 1. Đối với product.bwt
+Tìm đoạn
+```
+{{product.content}}
+```
+và thay thế bằng
 ```
 <div id="egany-content-edit" data-id="{{product.id}}" >
   {{product.content}}
 </div>
 ```
 2. Đối với article.bwt 
+Tìm đoạn
+```
+{{article.content}}
+```
+và thay thế bằng
 ```
 <div id="egany-content-edit" data-id="{{article.id}}" data-item="article" data-blog="{{blog.id}}" >
   {{article.content}}
