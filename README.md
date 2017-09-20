@@ -1,7 +1,7 @@
 # EGANY-Utility
 EGANY Utility là bộ tiện ích mở rộng cho quản trị website trên các nền tảng Bizweb, Haravan và Shopify.
 
-Version 1.0 hiện chỉ mới hỗ trợ người dùng trên nền tảng Bizweb.
+*Version 1.0 hiện chỉ mới hỗ trợ người dùng trên nền tảng Bizweb*.
 
 ## Các tính năng nổi bật hiện có:
 
