@@ -28,8 +28,7 @@ ________________
 ## Hướng dẫn bật chế độ chỉnh sửa nội dung Sản Phẩm và Bài Viết:
 Mở mã nguồn của giao diện từng file và điều chỉnh như bên dưới:
 
-1. Đối với product.bwt
-Tìm đoạn
+**1. Đối với product.bwt** --> tìm đoạn
 ```
 {{product.content}}
 ```
@@ -39,8 +38,7 @@ và thay thế bằng
   {{product.content}}
 </div>
 ```
-2. Đối với article.bwt 
-Tìm đoạn
+**2. Đối với article.bwt** --> tìm đoạn
 ```
 {{article.content}}
 ```
